@@ -35,10 +35,39 @@ About 6 homework problems will be assigned throughout the term at approximately 
 
 Students will be required to select a term project by Lec #8. A brief interim progress report will be required by Lec #16. Term projects must be completed by the last week of the term, at which time a final report will be due. A brief oral presentation of each term project will also be required.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework | 60% |
-| Term Project | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Term Project
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Ethics Policy
 -------------
