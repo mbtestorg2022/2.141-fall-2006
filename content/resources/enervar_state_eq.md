@@ -4,6 +4,7 @@ description: This resource contains the description of models with nonlinear ene
   storage elements.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/69d1f7b605d7dcc5cf902749f4a75c74_enervar_state_eq.pdf
 file_type: application/pdf
+parent_uid: d3c65f49-3b76-6b3c-eb42-bf3de285892b
 resourcetype: Document
 title: enervar_state_eq.pdf
 uid: 69d1f7b6-05d7-dcc5-cf90-2749f4a75c74
